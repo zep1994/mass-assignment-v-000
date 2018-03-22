@@ -1,3 +1,3 @@
 class Person
-  attr_accessor
+  attr_accessor 
 end
